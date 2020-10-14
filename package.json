@@ -1,0 +1,18 @@
+{
+  "name": "customerPreferenceCenterTS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.11.8",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
