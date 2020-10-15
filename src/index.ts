@@ -1,1 +1,1 @@
-import { Console } from "console";
+// No index code needed for now.
